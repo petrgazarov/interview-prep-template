@@ -1,6 +1,6 @@
 # Interview Prep Template
 
-## LeetCode and DSA practice with AI
+LeetCode and DSA practice with AI.
 
 Use AI to grade every attempt, track redos, and build a history you can analyze
 to find your remaining gaps.
